@@ -1,0 +1,817 @@
+[
+    {
+        "timestamp": "2025-05-27 00:32:54",
+        "action": "IP_BLOCKED",
+        "blocked_ip": "10.0.0.2",
+        "reason": "Exceeded individual IP threshold (50 SYN packets)",
+        "packet_count": 51,
+        "total_syns_at_time": 0
+    },
+    {
+        "timestamp": "2025-05-27 00:35:14",
+        "action": "IP_BLOCKED",
+        "blocked_ip": "10.0.0.3",
+        "reason": "Exceeded individual IP threshold (8000 SYN packets)",
+        "packet_count": 8001,
+        "total_syns_at_time": 0
+    },
+    {
+        "timestamp": "2025-05-27 00:36:14",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 15717,
+        "sources": {
+            "10.0.0.1": 15717
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:36:24",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 20577,
+        "sources": {
+            "10.0.0.1": 20577
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:36:34",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 16103,
+        "sources": {
+            "10.0.0.1": 16103
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:36:44",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 8113,
+        "sources": {
+            "10.0.0.1": 8113
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:36:54",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 6845,
+        "sources": {
+            "10.0.0.1": 6845
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:37:04",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 7241,
+        "sources": {
+            "10.0.0.1": 7241
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:37:14",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 11807,
+        "sources": {
+            "10.0.0.1": 11807
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:37:24",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 6286,
+        "sources": {
+            "10.0.0.1": 6286
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:37:34",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 5690,
+        "sources": {
+            "10.0.0.1": 5690
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:37:44",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 6167,
+        "sources": {
+            "10.0.0.1": 6167
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:37:54",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 6810,
+        "sources": {
+            "10.0.0.1": 6810
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:38:04",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 5834,
+        "sources": {
+            "10.0.0.1": 5834
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:40:40",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 10366,
+        "sources": {
+            "10.0.0.1": 10366
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:40:50",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 6664,
+        "sources": {
+            "10.0.0.1": 6664
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:41:00",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 5662,
+        "sources": {
+            "10.0.0.1": 5662
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:41:10",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 5744,
+        "sources": {
+            "10.0.0.1": 5744
+        },
+        "newly_blocked_ips": [],
+        "note": "Counts exclude already blocked IPs"
+    },
+    {
+        "timestamp": "2025-05-27 00:57:52",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 10204,
+        "sources": {
+            "10.0.0.5": 10204
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 00:58:02",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21079,
+        "sources": {
+            "10.0.0.5": 21079
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 00:58:12",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21132,
+        "sources": {
+            "10.0.0.5": 21132
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 00:58:22",
+        "action": "PENDING_BLOCK_SCHEDULED",
+        "ip": "10.0.0.5",
+        "reason": "Exceeded individual IP threshold (22000 SYN packets)",
+        "initial_packet_count": 22001,
+        "grace_period_seconds": 30,
+        "note": "IP will be blocked after 30 seconds or if sustained attack continues"
+    },
+    {
+        "timestamp": "2025-05-27 00:58:22",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 22509,
+        "sources": {
+            "10.0.0.5": 22509
+        },
+        "pending_blocks": [
+            "10.0.0.5"
+        ],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 00:58:25",
+        "action": "IMMEDIATE_BLOCK_FROM_GRACE",
+        "blocked_ip": "10.0.0.5",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 2.5s)",
+        "total_packet_count": 4493,
+        "grace_period_packets": 5001
+    },
+    {
+        "timestamp": "2025-05-27 01:00:55",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 12844,
+        "sources": {
+            "10.0.0.6": 12844
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4",
+            "10.0.0.3"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:00:58",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 14798,
+        "sources": {
+            "10.0.0.6": 14798
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:05",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 9256,
+        "sources": {
+            "10.0.0.6": 9256
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4",
+            "10.0.0.3"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:08",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 11887,
+        "sources": {
+            "10.0.0.6": 11887
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:15",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 17828,
+        "sources": {
+            "10.0.0.6": 17828
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4",
+            "10.0.0.3"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:18",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21067,
+        "sources": {
+            "10.0.0.6": 21067
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:24",
+        "action": "PENDING_BLOCK_SCHEDULED",
+        "ip": "10.0.0.6",
+        "reason": "Exceeded individual IP threshold (22000 SYN packets)",
+        "initial_packet_count": 22001,
+        "grace_period_seconds": 30,
+        "note": "IP will be blocked after 30 seconds or if sustained attack continues"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:25",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 23377,
+        "sources": {
+            "10.0.0.6": 23377
+        },
+        "pending_blocks": [
+            "10.0.0.6"
+        ],
+        "blocked_ips": [
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4",
+            "10.0.0.3"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:27",
+        "action": "IMMEDIATE_BLOCK_FROM_GRACE",
+        "blocked_ip": "10.0.0.6",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 2.4s)",
+        "total_packet_count": 3625,
+        "grace_period_packets": 5001
+    },
+    {
+        "timestamp": "2025-05-27 01:01:28",
+        "action": "PENDING_BLOCK_SCHEDULED",
+        "ip": "10.0.0.6",
+        "reason": "Exceeded individual IP threshold (22000 SYN packets)",
+        "initial_packet_count": 22001,
+        "grace_period_seconds": 30,
+        "note": "IP will be blocked after 30 seconds or if sustained attack continues"
+    },
+    {
+        "timestamp": "2025-05-27 01:01:28",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 22515,
+        "sources": {
+            "10.0.0.6": 22515
+        },
+        "pending_blocks": [
+            "10.0.0.6"
+        ],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.5",
+            "10.0.0.2",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:07:00",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 18514,
+        "sources": {
+            "10.0.0.5": 18514
+        },
+        "pending_blocks": [
+            "10.0.0.6"
+        ],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.6",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:07:10",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21278,
+        "sources": {
+            "10.0.0.5": 21278
+        },
+        "pending_blocks": [
+            "10.0.0.6"
+        ],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.6",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:07:20",
+        "action": "PENDING_BLOCK_SCHEDULED",
+        "ip": "10.0.0.5",
+        "reason": "Exceeded individual IP threshold (22000 SYN packets)",
+        "initial_packet_count": 22001,
+        "grace_period_seconds": 30,
+        "note": "IP will be blocked after 30 seconds or if sustained attack continues"
+    },
+    {
+        "timestamp": "2025-05-27 01:07:20",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 22821,
+        "sources": {
+            "10.0.0.5": 22821
+        },
+        "pending_blocks": [
+            "10.0.0.6",
+            "10.0.0.5"
+        ],
+        "blocked_ips": [
+            "10.0.0.3",
+            "10.0.0.6",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:07:22",
+        "action": "IMMEDIATE_BLOCK_FROM_GRACE",
+        "blocked_ip": "10.0.0.5",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 2.4s)",
+        "total_packet_count": 4181,
+        "grace_period_packets": 5001
+    },
+    {
+        "timestamp": "2025-05-27 01:24:06",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 3869,
+        "sources": {
+            "10.0.0.2": 3869
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:24:16",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21532,
+        "sources": {
+            "10.0.0.2": 21532
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:24:26",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21925,
+        "sources": {
+            "10.0.0.2": 21925
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:24:36",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21941,
+        "sources": {
+            "10.0.0.2": 21941
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:24:46",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 21222,
+        "sources": {
+            "10.0.0.2": 21222
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:24:56",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 15821,
+        "sources": {
+            "10.0.0.2": 15821
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:25:06",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 18541,
+        "sources": {
+            "10.0.0.2": 18541
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:25:16",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 20057,
+        "sources": {
+            "10.0.0.2": 20057
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:25:26",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 14817,
+        "sources": {
+            "10.0.0.2": 14817
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:25:36",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 15329,
+        "sources": {
+            "10.0.0.2": 15329
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:25:46",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 17740,
+        "sources": {
+            "10.0.0.2": 17740
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:25:56",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 20500,
+        "sources": {
+            "10.0.0.2": 20500
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.4",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:37:22",
+        "action": "PENDING_BLOCK_SCHEDULED",
+        "ip": "10.0.0.2",
+        "reason": "Exceeded individual IP threshold (22000 SYN packets)",
+        "initial_packet_count": 22001,
+        "grace_period_seconds": 30,
+        "note": "IP will be blocked after 30 seconds or if sustained attack continues"
+    },
+    {
+        "timestamp": "2025-05-27 01:37:22",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 23227,
+        "sources": {
+            "10.0.0.2": 23227
+        },
+        "pending_blocks": [
+            "10.0.0.2"
+        ],
+        "blocked_ips": [
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.5",
+            "10.0.0.4"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:37:25",
+        "action": "IMMEDIATE_BLOCK_FROM_GRACE",
+        "blocked_ip": "10.0.0.2",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 2.9s)",
+        "total_packet_count": 3775,
+        "grace_period_packets": 5001
+    },
+    {
+        "timestamp": "2025-05-27 01:38:06",
+        "action": "IP_UNBLOCKED",
+        "ip": "10.0.0.2",
+        "iptables_removed": false,
+        "unblocked_by": "dashboard_user"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:09",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 12506,
+        "sources": {
+            "10.0.0.2": 12506
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.4",
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:19",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 5574,
+        "sources": {
+            "10.0.0.2": 5574
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.4",
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:29",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 13424,
+        "sources": {
+            "10.0.0.2": 13424
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.4",
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:39",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 13834,
+        "sources": {
+            "10.0.0.2": 13834
+        },
+        "pending_blocks": [],
+        "blocked_ips": [
+            "10.0.0.4",
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:48",
+        "action": "PENDING_BLOCK_SCHEDULED",
+        "ip": "10.0.0.2",
+        "reason": "Exceeded individual IP threshold (22000 SYN packets)",
+        "initial_packet_count": 22001,
+        "grace_period_seconds": 30,
+        "note": "IP will be blocked after 30 seconds or if sustained attack continues"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:49",
+        "alert": "Potential DDoS attack detected on host 8!",
+        "total_syns": 23135,
+        "sources": {
+            "10.0.0.2": 23135
+        },
+        "pending_blocks": [
+            "10.0.0.2"
+        ],
+        "blocked_ips": [
+            "10.0.0.4",
+            "10.0.0.6",
+            "10.0.0.3",
+            "10.0.0.5"
+        ],
+        "note": "Some IPs may be in grace period before blocking"
+    },
+    {
+        "timestamp": "2025-05-27 01:39:52",
+        "action": "IMMEDIATE_BLOCK_FROM_GRACE",
+        "blocked_ip": "10.0.0.2",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 3.2s)",
+        "total_packet_count": 3867,
+        "grace_period_packets": 5001
+    }
+]

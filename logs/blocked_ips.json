@@ -1,0 +1,35 @@
+[
+    {
+        "ip": "10.0.0.4",
+        "blocked_at": "2025-05-27 00:18:28",
+        "reason": "Exceeded individual IP threshold (50 SYN packets)",
+        "packet_count": 51
+    },
+    {
+        "ip": "10.0.0.3",
+        "blocked_at": "2025-05-27 00:35:14",
+        "reason": "Exceeded individual IP threshold (8000 SYN packets)",
+        "packet_count": 8001
+    },
+    {
+        "ip": "10.0.0.6",
+        "blocked_at": "2025-05-27 01:01:27",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 2.4s)",
+        "packet_count": 3625,
+        "grace_period_packets": 5001
+    },
+    {
+        "ip": "10.0.0.5",
+        "blocked_at": "2025-05-27 01:07:22",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 2.4s)",
+        "packet_count": 4181,
+        "grace_period_packets": 5001
+    },
+    {
+        "ip": "10.0.0.2",
+        "blocked_at": "2025-05-27 01:39:52",
+        "reason": "IMMEDIATE BLOCK during grace period: Grace period packet threshold exceeded (5001 packets in 3.2s)",
+        "packet_count": 3867,
+        "grace_period_packets": 5001
+    }
+]
